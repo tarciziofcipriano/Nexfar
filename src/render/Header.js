@@ -1,5 +1,5 @@
 import cart from '../assets/cart.png';
-import logo from './../assets/Nexfar.png';
+import logo from './../assets/cartLogo.png';
 import { Link } from "react-router-dom";
 import notification from '../assets/notification.png';
 import React from 'react'
@@ -30,8 +30,8 @@ export default function Header(props) {
           src={logo}
           alt="logo"
           style={{
-            margin: '3% 15%',
-            width: '20%'
+            margin: '0px 10px',
+            width: '18%'
           }}
         />
       </Link>
@@ -50,7 +50,7 @@ export default function Header(props) {
               textAlign: 'center'
             }}
           >
-            NEXFAR
+            Shopping Cart
           </p>
           <Link
             to="/cart"

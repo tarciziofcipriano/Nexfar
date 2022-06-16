@@ -100,7 +100,7 @@ const data = {
       "maker": "VITAMED",
       "category": "ALIMENTOS E SUPLEMENTOS",
       "principle": "VITAMINA B7 (BIOTINA)",
-      "base": "Nexfar",
+      "base": "shopping-cart",
       "price": {
         "price": 16.92,
         "finalPrice": 16.92,
@@ -121,7 +121,7 @@ const data = {
       "maker": "INTEGRALMEDICA",
       "category": "ALIMENTOS E SUPLEMENTOS",
       "principle": "WHEY PROTEIN",
-      "base": "Nexfar",
+      "base": "shopping-cart",
       "price": {
         "price": 45.79,
         "finalPrice": 45.79,
@@ -142,7 +142,7 @@ const data = {
       "maker": "PROLINK",
       "category": "COSMÉTICOS",
       "principle": "ACIDO HIALURONICO+ASSOCIACOES",
-      "base": "Nexfar",
+      "base": "shopping-cart",
       "price": {
         "price": 9.99,
         "finalPrice": 9.99,
@@ -163,7 +163,7 @@ const data = {
       "maker": "GLOBO",
       "category": "ALIMENTOS E SUPLEMENTOS",
       "principle": "EXTRATO DE PROPOLIS",
-      "base": "Nexfar",
+      "base": "shopping-cart",
       "price": {
         "price": 16.28,
         "finalPrice": 16.28,
@@ -184,7 +184,7 @@ const data = {
       "maker": "GLOBO",
       "category": "ALIMENTOS E SUPLEMENTOS",
       "principle": "ZINCO",
-      "base": "Nexfar",
+      "base": "shopping-cart",
       "price": {
         "price": 12.99,
         "finalPrice": 12.99,
@@ -205,7 +205,7 @@ const data = {
       "maker": "GLOBO",
       "category": "ALIMENTOS E SUPLEMENTOS",
       "principle": "ZINCO",
-      "base": "Nexfar",
+      "base": "shopping-cart",
       "price": {
         "price": 6.56,
         "finalPrice": 6.56,
@@ -226,7 +226,7 @@ const data = {
       "maker": "BIOCUTHIS",
       "category": "COSMÉTICOS",
       "principle": "OLEOS DE:ARGAN/NOZ KARITE/SEM.ALGOD/COCO/MACADAMIA/CHA VER/CAMOMILA/ALOE V/CALAMO/MIRRA/OLIVA/CANELA",
-      "base": "Nexfar",
+      "base": "shopping-cart",
       "price": {
         "price": 59.6,
         "finalPrice": 59.6,
@@ -247,7 +247,7 @@ const data = {
       "maker": "RIOQUIMICA",
       "category": "SIMILARES",
       "principle": "CLORETO DE SODIO",
-      "base": "Nexfar",
+      "base": "shopping-cart",
       "price": {
         "price": 2.65,
         "finalPrice": 2.65,
@@ -268,7 +268,7 @@ const data = {
       "maker": "RIOQUIMICA",
       "category": "SIMILARES",
       "principle": "CLORETO DE SODIO",
-      "base": "Nexfar",
+      "base": "shopping-cart",
       "price": {
         "price": 2.19,
         "finalPrice": 2.19,
@@ -289,7 +289,7 @@ const data = {
       "maker": "RIOQUIMICA",
       "category": "SIMILARES",
       "principle": "CLORETO DE SODIO",
-      "base": "Nexfar",
+      "base": "shopping-cart",
       "price": {
         "price": 1.71,
         "finalPrice": 1.71,
@@ -310,7 +310,7 @@ const data = {
       "maker": "BIOCUTHIS",
       "category": "COSMÉTICOS",
       "principle": "EXTRATOS GENGIBRE/SALVIA/TILIA",
-      "base": "Nexfar",
+      "base": "shopping-cart",
       "price": {
         "price": 29.8,
         "finalPrice": 29.8,
@@ -331,7 +331,7 @@ const data = {
       "maker": "BIOCUTHIS",
       "category": "COSMÉTICOS",
       "principle": "SERICINA+YACON+EXTRATO DE BAMBU",
-      "base": "Nexfar",
+      "base": "shopping-cart",
       "price": {
         "price": 32.7,
         "finalPrice": 32.7,
@@ -352,7 +352,7 @@ const data = {
       "maker": "BIOCUTHIS",
       "category": "COSMÉTICOS",
       "principle": "SERICINA+YACON+EXTRATO DE BAMBU",
-      "base": "Nexfar",
+      "base": "shopping-cart",
       "prices": {
         "price": 32.7,
         "finalPrice": 32.7,
@@ -373,7 +373,7 @@ const data = {
       "maker": "AIRELA",
       "category": "ALIMENTOS E SUPLEMENTOS",
       "principle": "VITAMINAS C/D+ZINCO",
-      "base": "Nexfar",
+      "base": "shopping-cart",
       "price": {
         "price": 13.68,
         "finalPrice": 13.68,
@@ -394,7 +394,7 @@ const data = {
       "maker": "AIRELA",
       "category": "ALIMENTOS E SUPLEMENTOS",
       "principle": "VITAMINA E",
-      "base": "Nexfar",
+      "base": "shopping-cart",
       "price": {
         "price": 9.93,
         "finalPrice": 9.93,
@@ -415,7 +415,7 @@ const data = {
       "maker": "AIRELA",
       "category": "ALIMENTOS E SUPLEMENTOS",
       "principle": "VITAMINA D+ZINCO",
-      "base": "Nexfar",
+      "base": "shopping-cart",
       "price": {
         "price": 46.38,
         "finalPrice": 46.38,

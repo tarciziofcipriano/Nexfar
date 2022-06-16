@@ -1,4 +1,4 @@
-# PROJETO SHOPPING-CART
+# SHOPPING-CART
  
 Um simples programa mostrando uma tela básica de compras.
 
